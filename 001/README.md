@@ -13,7 +13,3 @@ Fastest approach we need, hashset :
 
 [3,1,2,5,6,1]
 
-## Complexity
-
-- Time: O()
-- Space: O()
