@@ -1,9 +1,8 @@
 # LeetCode 041
 
-## Problem Description
-
 ## Approach
 
 ## Complexity
+
 - Time: O()
 - Space: O()
